@@ -1,0 +1,7 @@
+UPI Fraud Case Study
+
+UPI fraud is a type of cybercrime where criminals trick people into sending money through UPI apps like Google Pay, PhonePe, or Paytm. This usually happens when the victim is not aware of how online payments work.
+
+A common method used by fraudsters is sending a fake payment request. For example, a person may receive a message saying they will get money, but instead, it is a “collect request.” When the user enters their UPI PIN, money gets deducted instead of being received. Another method is fake calls where the fraudster pretends to be a bank officer and asks for OTP or UPI PIN.
+
+Students and elderly people are often targeted. The consequences include loss of money and stress. Therefore, it is important to stay alert and never share sensitive information.
